@@ -14,8 +14,8 @@ The tasks covered are:
 6. Plotting GameStop Stock Graph
 
 ## Lessons Learnt
-- The project illustrates the process of data extraction using APIs and webscraping and using the data extracted to create pandas dataframes. You also learn operations on datasets using pandas.
-- The project shows hands-on implementation of functions in data science projects some situations where functional programming is used in data science tasks. 
-- The project introduces matplotlib and plotly libraries for data visualization. You learn to make hasten the process of making graphs by writing reusable functionsn, and the appropriate graphs for stock data visualization.
+- The project illustrates the process of data extraction using APIs and webscraping, using the data extracted to create pandas dataframes, and operations on datasets using pandas.
+- The project shows hands-on implementation of functions in data science projects including a sample situation where functional programming is used in a data science task. 
+- The project introduces matplotlib and plotly libraries for data visualization. You learn to hasten the process of making graphs by writing reusable functions, and the making graphs for stock data visualization.
 - The project introduces yfinance and how it is used to access market data. This is especially useful for finance based data extraction and analysis.
 - The project illustrates the basics of webscraping using requests and Beautiful Soup.
