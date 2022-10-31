@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-This is a project on Data Visualization of stock data as part of the curriculum for [IBM python project for Data Science Course](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science) on Coursera.
+This is a project on Data Visualization of stock data as part of the curriculum for [IBM python project for Data Science Course](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science) on [Coursera](https://www.coursera.org/).
 The tasks covered are:
 
 1. Defining a Function that Makes a Graph given a pandas dataframe
-1. Using yfinance to Extract Stock Data
+1. Using [yfinance](https://pypi.org/project/yfinance/) to Extract Stock Data
 2. Using Webscraping to Extract Tesla Revenue Data
-3. Using yfinance to Extract Stock Data
+3. Using [yfinance](https://pypi.org/project/yfinance/) to Extract Stock Data
 4. Using Webscraping to Extract GME Revenue Data
 5. Plotting Tesla Stock Graph
 6. Plotting GameStop Stock Graph
